@@ -4,6 +4,7 @@ date: 2020-07-12
 tags: ["JavaScript", "コールバック関数"]
 excerpt: JSのコールバック関数の復習
 ---
+![free-to-use-sounds-kgn8H0jMSIk-unsplash](https://user-images.githubusercontent.com/62282502/87250271-b17f2c80-c49e-11ea-9c09-ff35c5046d8a.jpg)
 
 ## はやく梅雨あけてくれー！
 ここのところ、梅雨で毎日雨ばかりで気持ちが落ち込みやすい時期ですね＾＾；
