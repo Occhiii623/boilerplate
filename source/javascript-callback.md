@@ -13,9 +13,9 @@ excerpt: JSのコールバック関数の復習
 これ。
 
 * 【4分だけ】マンションでも！有酸素より効率よく脂肪を落とそう(HIIT)
-https://youtu.be/SMw4XrBzTB8
+- https://youtu.be/SMw4XrBzTB8
 * 【毎日2分】30日で腹筋を割るトレーニング
-https://youtu.be/fuMOxAZOlLI
+- https://youtu.be/fuMOxAZOlLI
 
 _これだけでもけっこう汗かきます。_
 
