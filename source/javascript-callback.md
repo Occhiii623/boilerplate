@@ -5,7 +5,7 @@ tags: ["JavaScript"]
 excerpt: JSのコールバック関数について学びました。
 ---
 
-今日は手始めに、ProgateでJavaScriptのコールバック関数について学びました。<br><br>
+今日は手始めに、ProgateでJavaScriptのコールバック関数について学びました。
 
 ちょっと概念がわかりにくいところ。
 
